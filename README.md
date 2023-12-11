@@ -9,7 +9,7 @@ Before running this project, ensure you have the following installed:
 Node.js
 npm (Node Package Manager)
 
-##Installation
+#Installation
 
 1. Clone the repository to your local machine:
 git clone https://github.com/pratham-srivastava-07/TicTacToe--Express.js
@@ -22,23 +22,23 @@ cd TicTacToe--Express.js
 
 (Make sure in the "start" script you have "nodemon app.js" or "node app.js")
 
-##Usage
+#Usage
 1. Start the Express server:
    npm run start
 
 2. Open your web browser and go to http://localhost:5000 to play the Tic Tac Toe game.
 
 
-##Game Features
+#Game Features
 
 Two-player game mode: Player X and Player O take turns to place their marks on the board.
 Real-time updates: The game board updates in real time to reflect the moves made by each player.
 Winning conditions: The game checks for winning combinations and declares the winner or a draw accordingly.
 Responsive design: The game interface is designed to be responsive and accessible on various devices.
 
-##File Structure
+#File Structure
 public/: Contains HTML, CSS, and JavaScript files for the frontend.
 package.json: Lists the project dependencies and scripts.
 
-##Contributing
+#Contributing
 Feel free to contribute to this project by forking the repository and submitting a pull request. Any contributions to improve the game functionality, UI/UX, or adding new features are welcome.
